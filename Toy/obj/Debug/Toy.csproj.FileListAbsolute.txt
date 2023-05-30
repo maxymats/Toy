@@ -1,0 +1,10 @@
+C:\Users\max25\source\repos\Toy\Toy\bin\Debug\Toy.exe.config
+C:\Users\max25\source\repos\Toy\Toy\bin\Debug\Toy.exe
+C:\Users\max25\source\repos\Toy\Toy\bin\Debug\Toy.pdb
+C:\Users\max25\source\repos\Toy\Toy\obj\Debug\Toy.csproj.AssemblyReference.cache
+C:\Users\max25\source\repos\Toy\Toy\obj\Debug\Toy.Form1.resources
+C:\Users\max25\source\repos\Toy\Toy\obj\Debug\Toy.Properties.Resources.resources
+C:\Users\max25\source\repos\Toy\Toy\obj\Debug\Toy.csproj.GenerateResource.cache
+C:\Users\max25\source\repos\Toy\Toy\obj\Debug\Toy.csproj.CoreCompileInputs.cache
+C:\Users\max25\source\repos\Toy\Toy\obj\Debug\Toy.exe
+C:\Users\max25\source\repos\Toy\Toy\obj\Debug\Toy.pdb
